@@ -1,1 +1,1 @@
-# music-website-using-htnl-css
+# music-website-using-html-css
